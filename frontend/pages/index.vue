@@ -22,7 +22,6 @@
 
         <div class="mt-4">
           <div class="space-y-8">
-
             <div 
               v-for="(group, index) in transactionsGrouped"
               :key="index" >
